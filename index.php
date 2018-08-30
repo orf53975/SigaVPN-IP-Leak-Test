@@ -21,23 +21,11 @@ header("Pragma: no-cache");
 <?php 
 switch ($_SERVER["HTTP_CF_CONNECTING_IP"]) {
     case "216.245.220.14":
-        echo "You are connected to SigaVPN";
-        break;
     case "185.61.149.116":
-        echo "You are connected to SigaVPN";
-        break;
     case "142.44.133.83":
-        echo "You are connected to SigaVPN";
-        break;
     case "51.15.2.172":
-        echo "You are connected to SigaVPN";
-        break;
     case "95.215.44.147":
-        echo "You are connected to SigaVPN";
-        break;
     case "185.225.17.101":
-        echo "You are connected to SigaVPN";
-        break;
     case "205.185.122.55":
         echo "You are connected to SigaVPN";
         break;
